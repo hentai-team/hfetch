@@ -8,7 +8,7 @@ A utility that shows all the current system information about your PC.
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/hentai-team/hfetch.git
 cd hfetch
 ```
 
