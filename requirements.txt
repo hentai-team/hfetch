@@ -1,0 +1,4 @@
+colorama>=0.4.6
+psutil>=5.9.0
+distro>=1.8.0
+GPUtil>=1.4.0
